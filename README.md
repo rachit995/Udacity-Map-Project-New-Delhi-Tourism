@@ -3,6 +3,10 @@
 
 > Developed for Project 5-1 of the **Udacity Front-End Web Developer Nanodegree**.
 
+### Demo 
+
+* [Click here](https://rachit995.github.io/Udacity-Map-Project-New-Delhi-Tourism/)
+
 ### Technologies Used
 
 * [Knockout.js](http://knockoutjs.com/)
